@@ -1,0 +1,39 @@
+{
+  "name": "advent-js-2021",
+  "version": "1.0.0",
+  "description": "mis sluciones a los retos del adventJs 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "jest:reto1": "jest -i reto1/index.test.js",
+    "jest:reto2": "jest -i reto2/index.test.js",
+    "jest:reto3": "jest -i reto3/index.test.js",
+    "jest:reto4": "jest -i reto4/index.test.js",
+    "jest:reto5": "jest -i reto5/index.test.js",
+    "jest:reto6": "jest -i reto6/index.test.js",
+    "jest:reto7": "jest -i reto7/index.test.js",
+    "jest:reto8": "jest -i reto8/index.test.js",
+    "jest:reto9": "jest -i reto9/index.test.js",
+    "jest:reto10": "jest -i reto10/index.test.js",
+    "jest:reto11": "jest -i reto11/index.test.js",
+    "jest:reto12": "jest -i reto12/index.test.js",
+    "jest:reto13": "jest -i reto13/index.test.js",
+    "jest:reto14": "jest -i reto14/index.test.js",
+    "jest:reto15": "jest -i reto15/index.test.js",
+    "jest:reto16": "jest -i reto16/index.test.js",
+    "jest:reto17": "jest -i reto17/index.test.js",
+    "jest:reto18": "jest -i reto18/index.test.js",
+    "jest:reto19": "jest -i reto19/index.test.js",
+    "jest:reto20": "jest -i reto20/index.test.js",
+    "jest:reto21": "jest -i reto21/index.test.js",
+    "jest:reto22": "jest -i reto22/index.test.js",
+    "jest:reto23": "jest -i reto23/index.test.js",
+    "jest:reto24": "jest -i reto24/index.test.js",
+    "jest:reto25": "jest -i reto25/index.test.js"
+  },
+  "author": "Ricky Beltran",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
+}
